@@ -9,3 +9,4 @@
 #5. for sign in the blank exsist in gray area so you maybe be not able to see it.
 #6. In Setings, Repsotitory Configuration  you should enter the your GitHub Address and Save Repsitroy
 #7. Now you can use the GitHub in Unity
+#8. How to make Commit: GitHub -> Changes and check what you wanna make commit. finally you enter the commit name and commit discription in the bottom.
